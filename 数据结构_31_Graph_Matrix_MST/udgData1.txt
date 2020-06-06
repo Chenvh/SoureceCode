@@ -1,0 +1,15 @@
+false
+false
+9
+A B C D E F G H I
+10
+A B
+A C
+A D
+B C
+B E
+C F
+D F
+E G
+F H
+H I
